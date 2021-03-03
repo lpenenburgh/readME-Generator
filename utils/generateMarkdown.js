@@ -24,6 +24,22 @@ ${data.description}
 - [Contributing](#contributing)
 - [Tests](#tests)
 
+## Installation
+${data.installation}
+
+## Usage
+${data.usage}
+
+## License
+${data.license}
+
+## Contributing
+${data.contributing}
+
+## Tests
+${data.tests}
+
+## Questions?
 
 `;
 }
