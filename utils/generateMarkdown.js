@@ -40,6 +40,10 @@ ${data.contributing}
 ${data.tests}
 
 ## Questions?
+You can reach me on my Github:
+${data.github}/n
+Or email me at:
+${data.email}
 
 `;
 }
