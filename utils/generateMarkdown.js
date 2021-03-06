@@ -77,7 +77,7 @@ function renderLicenseSection(license) {
     if (!license || license === 'No License') {
       return "";
     } else {
-      return `[![License](${renderLicenseBadge(license)})](${renderLicenseLink(license)})`
+      return `${renderLicenseBadge(license)} ${renderLicenseLink(license)}`
     }
   
 }
@@ -114,7 +114,7 @@ ${data.tests}
 
 ## Questions?
 You can reach me on my Github:
-${data.github}/n
+${data.github}\n
 Or email me at:
 ${data.email}
 
